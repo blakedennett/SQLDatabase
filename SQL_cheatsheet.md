@@ -13,6 +13,9 @@
 |MIN(column name)|also has max*|
 |HAVING|takes condition*|
 |SELECT column INTO tablename FROM tablename|copies data from one table to another|
+|ALTER TABLE|for creating/dropping columns|
+|SET column =|filling in new column with values (follows UPDATE)|
+||   |
 |   |   |
 
 
