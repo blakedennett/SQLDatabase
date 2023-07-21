@@ -1,38 +1,15 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I chose this project because I didn't have any experience with SQL Databases. I took a dataset that came from Kaggle that was already downloaded onto my computer and turned just one company, Netflix, into a database. I definitely did not get as much done as I would have liked, but I got a new experience. 
 
-{Provide a description of the software that you wrote and how it integrates with a SQL Relational Database. Describe how to use your program.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
+My conclusion is that at least for me, data wrangling and analysis is easier to do with Python or R rather than SQL. So If I next time I do a project like this, I will make a database, turn the data into a Pandas dataset, do wrangling/analysis there, then update the database with SQL.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
-# Relational Database
-
-{Describe the relational database you are using.}
-
-{Describe the structure (tables) of the relational database that you created.}
-
-# Development Environment
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
-
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+As mentioned before, I would like to limit SQL use to retrieving and updating data. I would like to go further with more analysis using Python in the future.
 
-- Item 1
-- Item 2
-- Item 3
+# Github Link
+
+[SQL Project Link](https://github.com/blakedennett/SQLDatabase)
